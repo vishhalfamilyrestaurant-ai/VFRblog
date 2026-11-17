@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://blog.vishhalfamilyrestaurant.com/sitemap.xml
+Sitemap: https://vishhalfamilyrestaurant.github.io/VFRblog/sitemap.xml

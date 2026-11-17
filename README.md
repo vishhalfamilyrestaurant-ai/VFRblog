@@ -4,7 +4,7 @@ A practical local food and dining publication operated by Vishhal Family Restaur
 
 ## Website
 When GitHub Pages is enabled for this public repository, the project site will be:
-https://vishhalfamilyrestaurant-ai.github.io/VFRblog/
+https://vishhalfamilyrestaurant.github.io/VFRblog/
 
 ## Publishing
 1. Open **Settings → Pages**.

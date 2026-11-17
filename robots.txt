@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vishhalfamilyrestaurant-ai.github.io/VFRblog/sitemap.xml
